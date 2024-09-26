@@ -1,0 +1,12 @@
+[
+xmin 124
+ymin 99
+xmax 2434
+ymax 505
+][
+font 8
+height 520
+color #ffffff
+x 100
+y 480
+]TRAILER

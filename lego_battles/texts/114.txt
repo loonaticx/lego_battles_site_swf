@@ -1,0 +1,12 @@
+[
+xmin 36
+ymin 96
+xmax 3714
+ymax 511
+][
+font 8
+height 520
+letterspacing -2
+color #ffffff
+y 480
+]CHARACTERS

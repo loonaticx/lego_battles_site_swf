@@ -1,0 +1,12 @@
+[
+xmin 12
+ymin 24
+xmax 686
+ymax 208
+][
+font 8
+height 200
+letterspacing -2
+color #ffffff
+y 180
+]CLOSE

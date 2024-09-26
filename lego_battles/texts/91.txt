@@ -1,0 +1,12 @@
+[
+xmin 824
+ymin 96
+xmax 2921
+ymax 588
+][
+font 8
+height 520
+color #ffffff
+x 800
+y 480
+]Support

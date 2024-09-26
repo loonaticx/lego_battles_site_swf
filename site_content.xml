@@ -1,0 +1,687 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<legoBattles root_path="../">
+	<gallery>
+		<item>
+			<thumb>img/gallery/sml/castle_01.jpg</thumb>
+			<image>img/gallery/lrg/castle_01.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_02.jpg</thumb>
+			<image>img/gallery/lrg/castle_02.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_03.jpg</thumb>
+			<image>img/gallery/lrg/castle_03.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_04.jpg</thumb>
+			<image>img/gallery/lrg/castle_04.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_05.jpg</thumb>
+			<image>img/gallery/lrg/castle_05.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_06.jpg</thumb>
+			<image>img/gallery/lrg/castle_06.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_07.jpg</thumb>
+			<image>img/gallery/lrg/castle_07.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_08.jpg</thumb>
+			<image>img/gallery/lrg/castle_08.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_09.jpg</thumb>
+			<image>img/gallery/lrg/castle_09.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_10.jpg</thumb>
+			<image>img/gallery/lrg/castle_10.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_11.jpg</thumb>
+			<image>img/gallery/lrg/castle_11.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_12.jpg</thumb>
+			<image>img/gallery/lrg/castle_12.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_13.jpg</thumb>
+			<image>img/gallery/lrg/castle_13.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_14.jpg</thumb>
+			<image>img/gallery/lrg/castle_14.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_15.jpg</thumb>
+			<image>img/gallery/lrg/castle_15.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_16.jpg</thumb>
+			<image>img/gallery/lrg/castle_16.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_17.jpg</thumb>
+			<image>img/gallery/lrg/castle_17.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_18.jpg</thumb>
+			<image>img/gallery/lrg/castle_18.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_19.jpg</thumb>
+			<image>img/gallery/lrg/castle_19.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_20.jpg</thumb>
+			<image>img/gallery/lrg/castle_20.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_21.jpg</thumb>
+			<image>img/gallery/lrg/castle_21.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_22.jpg</thumb>
+			<image>img/gallery/lrg/castle_22.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_23.jpg</thumb>
+			<image>img/gallery/lrg/castle_23.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_24.jpg</thumb>
+			<image>img/gallery/lrg/castle_24.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_25.jpg</thumb>
+			<image>img/gallery/lrg/castle_25.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_26.jpg</thumb>
+			<image>img/gallery/lrg/castle_26.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_27.jpg</thumb>
+			<image>img/gallery/lrg/castle_27.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_28.jpg</thumb>
+			<image>img/gallery/lrg/castle_28.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_29.jpg</thumb>
+			<image>img/gallery/lrg/castle_29.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_30.jpg</thumb>
+			<image>img/gallery/lrg/castle_30.jpg</image>
+		</item>
+		<item>
+			<thumb>img/gallery/sml/castle_31.jpg</thumb>
+			<image>img/gallery/lrg/castle_31.jpg</image>
+		</item>
+	</gallery>
+
+	<!-- Characters Section -->
+	<characters>
+		<item>
+			<charName>King</charName>
+			<thumb>img/characters/sml/castle_01.jpg</thumb>
+			<image>img/characters/lrg/castle_01.jpg</image>
+		</item>
+		<item>
+			<charName>Queen</charName>
+			<thumb>img/characters/sml/castle_02.jpg</thumb>
+			<image>img/characters/lrg/castle_02.jpg</image>
+		</item>
+		<item>
+			<charName>Dwarf King</charName>
+			<thumb>img/characters/sml/castle_03.jpg</thumb>
+			<image>img/characters/lrg/castle_03.jpg</image>
+		</item>
+		<item>
+			<charName>Wizard</charName>
+			<thumb>img/characters/sml/castle_04.jpg</thumb>
+			<image>img/characters/lrg/castle_04.jpg</image>
+		</item>
+		<item>
+			<charName>Sorceress</charName>
+			<thumb>img/characters/sml/castle_05.jpg</thumb>
+			<image>img/characters/lrg/castle_05.jpg</image>
+		</item>
+		<item>
+			<charName>Troll King</charName>
+			<thumb>img/characters/sml/castle_06.jpg</thumb>
+			<image>img/characters/lrg/castle_06.jpg</image>
+		</item>
+		<item>
+			<charName>Biff</charName>
+			<thumb>img/characters/sml/space_01.jpg</thumb>
+			<image>img/characters/lrg/space_01.jpg</image>
+		</item>
+		<item>
+			<charName>Gemma</charName>
+			<thumb>img/characters/sml/space_02.jpg</thumb>
+			<image>img/characters/lrg/space_02.jpg</image>
+		</item>
+		<item>
+			<charName>Space Police Captain</charName>
+			<thumb>img/characters/sml/space_03.jpg</thumb>
+			<image>img/characters/lrg/space_03.jpg</image>
+		</item>
+		<item>
+			<charName>Alien Commander</charName>
+			<thumb>img/characters/sml/space_04.jpg</thumb>
+			<image>img/characters/lrg/space_04.jpg</image>
+		</item>
+		<item>
+			<charName>Alien Queen</charName>
+			<thumb>img/characters/sml/space_05.jpg</thumb>
+			<image>img/characters/lrg/space_05.jpg</image>
+		</item>
+		<item>
+			<charName>Plisken</charName>
+			<thumb>img/characters/sml/space_06.jpg</thumb>
+			<image>img/characters/lrg/space_06.jpg</image>
+		</item>
+		<item>
+			<charName>Captain Brickbeard</charName>
+			<thumb>img/characters/sml/pirates_01.jpg</thumb>
+			<image>img/characters/lrg/pirates_01.jpg</image>
+		</item>
+		<item>
+			<charName>Lady Pirate</charName>
+			<thumb>img/characters/sml/pirates_02.jpg</thumb>
+			<image>img/characters/lrg/pirates_02.jpg</image>
+		</item>
+		<item>
+			<charName>King Kahuka</charName>
+			<thumb>img/characters/sml/pirates_03.jpg</thumb>
+			<image>img/characters/lrg/pirates_03.jpg</image>
+		</item>
+		<item>
+			<charName>Governor Broadside</charName>
+			<thumb>img/characters/sml/pirates_04.jpg</thumb>
+			<image>img/characters/lrg/pirates_04.jpg</image>
+		</item>
+		<item>
+			<charName>Camilla</charName>
+			<thumb>img/characters/sml/pirates_05.jpg</thumb>
+			<image>img/characters/lrg/pirates_05.jpg</image>
+		</item>
+		<item>
+			<charName>Ninja Master</charName>
+			<thumb>img/characters/sml/pirates_06.jpg</thumb>
+			<image>img/characters/lrg/pirates_06.jpg</image>
+		</item>
+	</characters>
+
+	
+	<!-- Story Section -->
+	<story>
+		<item>
+			<copy><![CDATA[Play through six distinct storylines in the game to create your base, buildings and team and deploy your troops for battle! Test your strategies in single-player campaign or Free Play mode to unlock hidden treasures, or play against two of your friends to put your soldiers on the road to victory!
+			<ul><li>Construct buildings and offensive and defensive units unique to each theme in the game</li><li>Use the Hero unit to cast special attacks on the battlefield</li><li>Complete goals and mix-and-match units from over 90 levels to create the ultimate fighting force</li><li>Single-player and wireless multiplayer mode for 2-3 players</li></ul>]]></copy>
+			<image>img/story_image1.jpg</image>
+			<image>img/story_image2.jpg</image>
+			<image>img/story_image3.jpg</image>
+		</item>
+	</story>
+	
+	<!-- Downloads Section -->
+	<downloads>
+		<wallpaper title="Wallpapers">
+			<item lrg="downloads/battles_wallpaper_castle_1024.jpg" sml="downloads/battles_wallpaper_castle_800.jpg">
+				<thumb>downloads/sml/battles_wp_castle.jpg</thumb>
+				<image>downloads/lrg/battles_wp_castle.jpg</image>
+			</item>
+			<item lrg="downloads/battles_wallpaper_pirates_1024.jpg" sml="downloads/battles_wallpaper_pirates_800.jpg">
+				<thumb>downloads/sml/battles_wp_pirates.jpg</thumb>
+				<image>downloads/lrg/battles_wp_pirates.jpg</image>
+			</item>
+			<item lrg="downloads/battles_wallpaper_space_1024.jpg" sml="downloads/battles_wallpaper_space_800.jpg">
+				<thumb>downloads/sml/battles_wp_space.jpg</thumb>
+				<image>downloads/lrg/battles_wp_space.jpg</image>
+			</item>
+		</wallpaper>
+		<coloring title="Coloring Pages">
+			<item url="downloads/coloring_book_castle.jpg">
+				<thumb>downloads/sml/coloring_book_castle.jpg</thumb>
+				<image>downloads/lrg/coloring_book_castle.jpg</image>
+			</item>
+			<item url="downloads/coloring_book_pirates.jpg">
+				<thumb>downloads/sml/coloring_book_pirates.jpg</thumb>
+				<image>downloads/lrg/coloring_book_pirates.jpg</image>
+			</item>
+			<item url="downloads/coloring_book_space.jpg">
+				<thumb>downloads/sml/coloring_book_space.jpg</thumb>
+				<image>downloads/lrg/coloring_book_space.jpg</image>
+			</item>
+		</coloring>
+	</downloads>
+	<!-- Credits Section -->
+	<credits>
+		<item>
+			<copy><![CDATA[<font size="23">Hellbent</font>
+			
+<font size="20">CEO/Creative Director</font>
+Christopher Mair
+
+<font size="20">Producer</font>
+Lee McKinnon-Pederson
+
+<font size="20">Art Director</font>
+Margaret Livesey
+
+<font size="20">Senior Animator</font>
+JJ Gonzales
+
+<font size="20">Artists</font>
+
+Ty Duperron
+Nick Small
+Klaus Shmidheiser
+Tristan Goodes
+Kierston Vandekraats
+Ryan Slemko
+
+<font size="20">Senior Designer/IT Admin</font>
+Mark McIntyre
+
+<font size="20">Game Designer</font>
+Kenny Chu
+
+<font size="20">Programmers</font>
+Shae Archibald
+Jim Baxter
+Jonathan Yim
+Pete Veys
+Roger Milne
+Richard Hawkes
+Crystal Giesbrecht
+
+<font size="20">Sound Designer/Composer</font>
+Chris Rezanson
+
+<font size="20">Additional Animation</font>
+Jen Hamilton
+
+<font size="20">Additional Design & Testing</font>
+Maceo Mair
+Rivers Mair
+
+<font size="20">Special Thanks</font>
+Lysa Mair
+Dianne Mair
+Jim Mair
+Jason Overend
+Brandon Kroeger
+Alec Vondjidis
+Karam Bayrakal
+Jon Vandermeer
+Dr. Amy Pederson
+Kelly Cameron
+Paula Barclay
+Susan Chiu
+Mel Livesey
+Alice Livesey
+Ember Chiu-Yim
+Jhenifer
+Veronica
+Sophie
+Aili, Jake & Gabriel
+Estelle & Selina
+Gemma Lee
+
+All our friends and family
+
+<font size="20">TT Games Publishing</font>
+
+<font size="20">Managing Director</font>
+Tom Stone
+
+<font size="20">Head of Production</font>
+Jonathan Smith
+
+<font size="20">Associate Producers</font>
+Phillip Ring
+Vincent Grogan
+
+<font size="20">Publishing Assistant</font>
+Luke Cashmore
+
+<font size="20">TT QA</font>
+
+<font size="20">QA Manager</font>
+Mike Candy
+
+<font size="20">Deputy QA Manager</font>
+Graham Stark
+
+<font size="20">Project Lead</font>
+Marek Werno
+
+<font size="20">Battles Leads</font>
+Sam Delaney
+Nige Wynn
+
+<font size="20">1st Party Coordinator</font>
+Manjit Gill
+
+<font size="20">Leads</font>
+Geir Lunde
+Harjot Sidhu
+Peter David Spencer
+
+<font size="20">Compliance</font>
+Matt Ellison
+Malachy O'Neill
+
+<font size="20">Localisation</font>
+Susanne Christensen
+Ramona Feiner
+Eliana Fierro
+Pablo González López
+Raphaël McCreadie
+Maria Pampin
+
+<font size="20">Testers</font>
+Elle Kajiwara Airey
+Doug Anderson
+Craig Asling
+John Birley
+James Burgon
+Ryan Clifford
+Dylan Edwards
+Rich Gregory
+Robbie Malcomson
+Lee Meader
+Ahmad Odeh
+James Parry
+Samantha Petter
+Sam Robertson
+Trevor Sherring
+Paul Simpson
+Matthew Spencer
+Jack Tutton
+Lisa Van Sau
+
+<font size="20">HR Assistant</font>
+Donna Marie Sennik
+
+<font size="20">IT Administrator</font>
+Morgan Dybdal
+
+<font size="20">Additional Testing</font>
+Sam Smith
+Toby Smith
+Josh Henry
+
+<font size="20">Business Development Director</font>
+Garry Edwards
+
+<font size="20">Financial Controller</font>
+Mike Wyre
+
+<font size="20">Assistant Accountant</font>
+Steve Stretton
+
+<font size="20">Special Thanks</font>
+Richard Earl
+Laura
+Rose
+Ella
+Becky
+Ben
+Toby
+Angela
+George
+Harry
+William
+Sue
+Emily
+Thomas
+Jenny
+Mira
+Adam Tilbury
+Matthew Salois
+Zachary Goding
+Matthew Delson
+Sean Delson
+Dylan Derose
+Joshua Vogel
+
+<font size="20">Warner Bros. Publishing</font>
+
+<font size="20">Global Brand Office</font>
+
+<font size="20">Producer</font>
+David Abrams
+
+<font size="20">Director, Production</font>
+Heidi Behrendt
+
+<font size="20">Manager, First Party Operations</font>
+Wendy Bozzi
+
+<font size="20">Manager Rights & Clearances</font>
+Karen Fishman
+
+<font size="20">Marketing Coordinator</font>
+Jamie Gary
+
+<font size="20">Marketing Specialist</font>
+Jennifer George
+
+<font size="20">Director, Marketing</font>
+Stephanie Johnson
+
+<font size="20">PR Representative</font>
+Jessica Holloway
+
+<font size="20">Manager, PR</font>
+Kehau Rodenhurst
+
+<font size="20">Director, PR</font>
+Remi Sklar
+
+<font size="20">SALES</font>
+Paula Cook
+Brian Dimick
+Monique Doubet
+Rasmus Fahraeus
+Sharon Gamble
+Daphne Lamb
+Monica Loya
+Ulises Molina
+Greg Mucha
+Echo Storch
+Diana Zingiryan
+
+<font size="20">Manager, Trade Marketing</font>
+Steven Hosey
+
+<font size="20">Manager, Sales Analysis</font>
+Chris Hughes
+
+<font size="20">Manager, Sales Communications</font>
+Gail Arceneaux
+
+<font size="20">Director, Trade Marketing</font>
+Anne Leuschen
+
+<font size="20">Vice President, Sales & Distribution</font>
+Kevin Kebodeaux
+
+<font size="20">Vice President, Business Development</font>
+Scott Johnson
+
+<font size="20">Deputy General Council</font>
+Jennifer Stump
+
+<font size="20">Vice President, Finance</font>
+Steve Chalk
+
+<font size="20">Senior Vice President, Production & Development</font>
+Samantha Ryan
+
+<font size="20">Senior Vice President, Operations</font>
+Debra Baker
+
+<font size="20">Executive Vice President, Worldwide Operations</font>
+John Quinn
+
+<font size="20">President</font>
+Martin Tremblay
+
+<font size="20">EMEA Regional Office</font>
+
+<font size="20">Vice President, European Sales & Distribution</font>
+Chris Meredith
+
+<font size="20">PA to Chris Meredith</font>
+Claire Malyon
+
+<font size="20">Marketing & PR Director, EMEA</font>
+Hester Woodliffe
+
+<font size="20">PA to Hester Woodliffe</font>
+Lara McGuinness
+
+<font size="20">Marketing Manager, EMEA</font>
+Maria Deevoy
+
+<font size="20">PR Manager, EMEA</font>
+Julie Skinner
+
+<font size="20">Junior Product Manager, EMEA</font>
+Alex Friend
+
+<font size="20">Creative Services & Localisation</font>
+Zoe Taylor
+
+<font size="20">Marketing & PR Intern</font>
+Josh Walker
+
+<font size="20">Director Sales, EMEA</font>
+Matt Spencer
+
+<font size="20">Sales Analysis Manager, EMEA</font>
+Dean Purse
+
+<font size="20">Director Supply Chain, EMEA</font>
+Annette Fleming
+
+<font size="20">International Supply Chain Manager</font>
+Mark Hards
+
+<font size="20">Sales Intern</font>
+Shakeel Rashid
+
+<font size="20">Director, International Finance</font>
+Matthew Marshall
+
+<font size="20">LEGO® Group</font>
+
+<font size="20">Senior Designer</font>
+Henrik Saaby Clausen
+Bjarke Lykke Madsen
+
+<font size="20">Creative Manager</font>
+Henrik Bøgelund Larson
+
+<font size="20">3D Modeller</font>
+Martin Lykke
+
+<font size="20">Creative Manager</font>
+Sine Klitgaard Møller
+
+<font size="20">Licensing Coordinator</font>
+Emilie Bourdillon
+
+<font size="20">Licensing Director</font>
+Jai Mukherjee
+
+<font size="20">Licensing Manager</font>
+Darryl Kelley
+
+
+
+]]></copy>
+		</item>
+	</credits>
+	<!-- Support Section -->
+	<support>
+		<item>
+			<copy><![CDATA[<font size="25">LEGO Battles Support</font>
+ 
+<font size="20"><u>English</u></font>
+ 
+<font size="20">CUSTOMER SUPPORT:</font>
+ 
+If you’re having trouble playing your game disc, please contact us in one of the following ways:
+ 
+E-mail us at <font color="#f7ed39"><a href="mailto:support@legobattles.com" target="_blank">support@legobattles.com</a></font>
+ 
+Call us at: (410) 568-3680
+ 
+LIMITED WARRANTY ADDRESS:
+ 
+NOTE: REPLACEMENT WILL ONLY BE ALLOWED UNDER LIMITED CIRCUMSTANCES IN STRICT ACCORDANCE WITH THE TERMS FOUND IN YOUR INSTRUCTION MANUAL.
+ 
+e4e Technical Support
+Attn: Dan Walker
+10720 Gilroy Road
+Hunt Valley, Maryland 21031
+
+
+<font size="20"><u>Spanish</u></font>
+
+SOPORTE TÉCNICO LEGO Battles:
+ 
+Si tienes problemas con tu juego, por favor, contacta con nosotros mediante los siguientes modos:
+ 
+Manda un email a: <font color="#f7ed39"><a href="mailto:support@legobattles.com" target="_blank">support@legobattles.com</a></font>
+ 
+Llamanos por teléfono: (410) 568-3680
+
+GARANTÍA LIMITADA:
+ 
+AVISO: SÓLO SE REEMPLAZARÁ EL PRODUCTO BAJO CIRCUNSTANCIAS LIMITADAS DE ACUERDO A LOS TÉRMINOS QUE ENCONTRARÁS EN TU MANUAL DE INSTRUCCIONES.
+ 
+e4e Technical Support
+Attn: Dan Walker
+10720 Gilroy Road
+Hunt Valley, Maryland 21031
+
+
+<font size="20"><u>French</u></font>
+
+LEGO Battles ASSISTANCE CLIENTS:
+ 
+Si vous rencontrez des problèmes de lecture du disque, veuillez nous contacter en utilisant l'une des méthodes suivantes :
+ 
+Par courrier électronique à l'adresse: <font color="#f7ed39"><a href="mailto:support@legobattles.com" target="_blank">support@legobattles.com</a></font>
+ 
+Par téléphone au numéro suivant : (410) 568-3680
+
+ 
+ADRESSE POUR LA GARANTIE LIMITÉE :
+ 
+REMARQUE : LE REMPLACEMENT NE SERA AUTORISÉ QUE DANS DES CIRCONSTANCES LIMITÉES ET EN ACCORD AVEC LES MODALITÉS DÉCRITES DANS LE MANUEL D'INSTRUCTIONS.
+
+e4e Technical Support
+Attn: Dan Walker
+10720 Gilroy Road
+Hunt Valley, Maryland 21031
+
+]]></copy>
+		</item>
+	</support>
+	
+</legoBattles>

@@ -1,0 +1,13 @@
+[
+xmin 629
+ymin 96
+xmax 3140
+ymax 511
+][
+font 8
+height 520
+letterspacing -2
+color #ffffff
+x 600
+y 480
+]GALLERY

@@ -1,0 +1,12 @@
+[
+xmin 632
+ymin 34
+xmax 2268
+ymax 304
+translatex 628
+][
+font 120
+height 280
+color #333333
+y 280
+]STATE: START

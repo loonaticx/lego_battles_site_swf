@@ -1,0 +1,18 @@
+[
+xmin 139
+ymin 29
+xmax 2740
+ymax 616
+translatex 127
+][
+font 8
+height 240
+color #a8a6a6
+y 220
+]download screen size[
+font 8
+height 280
+color #f7ed39
+x 520
+y 600
+]1600x1200

@@ -1,0 +1,13 @@
+[
+xmin 954
+ymin 85
+xmax 2802
+ymax 511
+translatex 925
+][
+font 8
+height 520
+letterspacing -1
+color #ffffff
+y 480
+]Credits

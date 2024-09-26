@@ -1,0 +1,13 @@
+[
+xmin 981
+ymin 96
+xmax 2779
+ymax 511
+][
+font 8
+height 520
+letterspacing -7
+color #ffffff
+x 960
+y 480
+]STORY

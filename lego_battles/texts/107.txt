@@ -1,0 +1,13 @@
+[
+xmin 973
+ymin 42
+xmax 1907
+ymax 284
+translatex 948
+][
+font 8
+height 280
+letterspacing -2
+color #ffffff
+y 260
+]DOWN
