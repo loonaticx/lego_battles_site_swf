@@ -1,5 +1,5 @@
 # Lego Battles Site SWF Files
-![Graphical preview](https://raw.githubusercontent.com/loonaticx/lego_battles_site_swf/refs/heads/master/lego_battles/images/349.png?raw=true)
+![Graphical preview](https://github.com/loonaticx/lego_battles_site_swf/blob/master/lego_battles/images/353.png?raw=true)
 
 Exported using [JPEXS Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 
